@@ -1,5 +1,6 @@
 import javax.swing.JFrame;
 
+
 public class Lab3Exercises {
 	public static void main(String[] args) {
 		JFrame myFrame = new JFrame("Anthony");

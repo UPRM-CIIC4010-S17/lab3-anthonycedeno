@@ -4,6 +4,7 @@ import java.awt.Insets;
 import javax.swing.JPanel;
 
 
+
 public class MyPanelClass extends JPanel {
             /**
 	 * 

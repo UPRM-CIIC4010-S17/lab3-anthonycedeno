@@ -42,6 +42,7 @@ public class MyPanelClass extends JPanel {
                         //g.setColor(Color.LIGHT_GRAY);
                         //g.fillOval((getWidth()-55) / 2 , (getHeight()-55) /2,55, 55);
                         
+                        
                         //Polygon p = new Polygon();
                         //p.addPoint(x1 + 5, y1 + 25);
                         //p.addPoint(x1 + 20, y1 + 10);

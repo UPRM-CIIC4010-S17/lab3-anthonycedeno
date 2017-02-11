@@ -96,9 +96,6 @@ public class MyPanelClass extends JPanel {
                         star.addPoint(x1+getWidth()/11,(getHeight()/2)+getHeight()/10);
                         star.addPoint(x1+(getWidth()/9),(getHeight()/2)+getHeight()/22);
                         g.setColor(Color.WHITE);
-                        g.fillPolygon(star);
-                        
-                        
-                        
+                        g.fillPolygon(star);                     
 			}
 }
